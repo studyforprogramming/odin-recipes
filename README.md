@@ -1,0 +1,1 @@
+I practiced the basic stracture of an html by using correct syntax and proper elements for first time.
